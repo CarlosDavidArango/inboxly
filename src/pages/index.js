@@ -17,7 +17,7 @@ export default function LandingPage() {
                 analizar automáticamente tus correos electrónicos y clasificarlos
                 por prioridad, importancia y categoría.
               </p>
-              <Link href = "/login">
+              <Link href ={`/home/Usuario`}>
                 <Button variant="outline-light" size="lg">
                   Inicia sesión
                 </Button>
