@@ -1,0 +1,23 @@
+.text-primary {
+  color: #007bff;
+}
+
+.bg-primary {
+  background-color: #007bff !important;
+}
+
+.text-secondary {
+  color: #6c757d;
+}
+
+.bg-secondary {
+  background-color: #6c757d !important;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.bg-white {
+  background-color: #fff !important;
+}
